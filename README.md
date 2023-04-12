@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>3</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1646095784704704513?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_axis_ticks_and_ticklabels_tweak.ipynb">.ipynb</a>
+        </th>
+        <th>Take advantage of how Matplotlib interprets <code>None</code> to create good looking drop lines for your line plot</th>
+    </tr>
+    <tr>
         <th>2</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1645697671678820352?s=20">Twitter</a>
