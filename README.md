@@ -1,5 +1,5 @@
 # code_and_pepper
-🐍 code I casually post on the web
+🐍 code I post on the web
 
 # Summary
 The table below describes the content of this repo.
@@ -17,7 +17,7 @@ The table below describes the content of this repo.
             <a href="https://twitter.com/pawjast/status/1646095784704704513?s=20">Twitter</a>
         </th>
         <th>
-            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_axis_ticks_and_ticklabels_tweak.ipynb">.ipynb</a>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_interrupted_line_chart.ipynb">.ipynb</a>
         </th>
         <th>Take advantage of how Matplotlib interprets <code>None</code> to create good looking drop lines for your line plot</th>
     </tr>
