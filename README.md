@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>4</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1646563349541289995?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_basic_plot_tweaks_bar_chart.ipynb">.ipynb</a>
+        </th>
+        <th>Apply simple tweaks to the Matplotlib bar chart to achieve modern look.</th>
+    </tr>
+    <tr>
         <th>3</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1646095784704704513?s=20">Twitter</a>
@@ -19,7 +29,7 @@ The table below describes the content of this repo.
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_interrupted_line_chart.ipynb">.ipynb</a>
         </th>
-        <th>Take advantage of how Matplotlib interprets <code>None</code> to create good looking drop lines for your line plot</th>
+        <th>Take advantage of how Matplotlib interprets <code>None</code> to create good looking drop lines for your line plot.</th>
     </tr>
     <tr>
         <th>2</th>
