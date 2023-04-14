@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>5</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1646817570685698049?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_bar_labels.ipynb">.ipynb</a>
+        </th>
+        <th>Add data labels to matplotlib bar chart using <code>ax.bar_label()</code> method as opposed to using <code>ax.text()</code> in a loop</th>
+    </tr>
+    <tr>
         <th>4</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1646563349541289995?s=20">Twitter</a>
