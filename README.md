@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>7</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1648449722347302914?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_GNOME_colours_palette.ipynb">.ipynb</a>
+        </th>
+        <th>Show GNOME colour palette.</th>
+    </tr>
+    <tr>
         <th>6</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1647900615635238912?s=20">Twitter</a>
