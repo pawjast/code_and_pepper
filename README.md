@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>8</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1649431410883608583?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_marker_every.ipynb">.ipynb</a>
+        </th>
+        <th>Reduce the number of data markers in a plot using <code>markevery=</code>  parameter in <code>ax.plot()</code> function.</th>
+    </tr>
+    <tr>
         <th>7</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1648449722347302914?s=20">Twitter</a>
