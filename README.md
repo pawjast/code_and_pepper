@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>9</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1650994008863174656?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_line_plot_with_parsed_dates.ipynb">.ipynb</a>
+        </th>
+        <th>Example showing the difference between plotting <code>DataFrame</code> with and without parsed dates.</th>
+    </tr>
+    <tr>
         <th>8</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1649431410883608583?s=20">Twitter</a>
