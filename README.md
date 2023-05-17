@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>11</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1658840663901839360?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_fill_between.ipynb">.ipynb</a>
+        </th>
+        <th>Demonstrate how to use Matplotlib <code>ax.fill_between()</code> plot. Includes using parameters such as <code>where</code> and <code>interpolate</code>.</th>
+    </tr>
+    <tr>
         <th>10</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1653826193966112781?s=20">Twitter</a>
