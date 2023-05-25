@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>12</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1661754506391207936?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_histogram.ipynb">.ipynb</a>
+        </th>
+        <th>Learn how to plot histograms in Matplotlib.</th>
+    </tr>
+    <tr>
         <th>11</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1658840663901839360?s=20">Twitter</a>
