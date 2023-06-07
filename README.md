@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>14</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1666375039816531969?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_zorder.ipynb">.ipynb</a>
+        </th>
+        <th>A few examples on how to use <code>zorder</code> in Matplotlib objects.</th>
+    </tr>
+    <tr>
         <th>13</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1664279977129566220?s=20">Twitter</a>
