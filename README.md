@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>15</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1669283416011939841?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_minor_ticks.ipynb">.ipynb</a>
+        </th>
+        <th>Example that shows how to set up minor ticks in matplotlib plots.</th>
+    </tr>
+    <tr>
         <th>14</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1666375039816531969?s=20">Twitter</a>
