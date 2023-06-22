@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>16</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1671849311468912641?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_metadata_for_images.ipynb">.ipynb</a>
+        </th>
+        <th>Example that shows how to add metadata to a plot while saving it to a file.</th>
+    </tr>
+    <tr>
         <th>15</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1669283416011939841?s=20">Twitter</a>
