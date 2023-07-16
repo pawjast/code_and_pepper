@@ -12,6 +12,17 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>17</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1680700608758665217?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_step_plots.ipynb">.ipynb</a>
+        </th>
+        <th>Examples of how to plot step lines with and without the shading.</th>
+    </tr>
+    <tr>
+    <tr>
         <th>16</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1671849311468912641?s=20">Twitter</a>
