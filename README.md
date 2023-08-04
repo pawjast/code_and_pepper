@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>18</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1687489094887067648?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_3d_plots.ipynb">.ipynb</a>
+        </th>
+        <th>Demo of 3D plotting capability in matplotlib.</th>
+    </tr>
+    <tr>
         <th>17</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1680700608758665217?s=20">Twitter</a>
