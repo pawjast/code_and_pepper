@@ -12,6 +12,15 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>19</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1689267873695272960?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_simpson_paradox.ipynb">.ipynb</a>
+        </th>
+        <th>Simpson's paradox example plotted with matplotlib.</th>
+    <tr>
         <th>18</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1687489094887067648?s=20">Twitter</a>
