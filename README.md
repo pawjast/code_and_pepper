@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>20</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1694341521829507110?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matpltolib_histogram_bin_options.ipynb">.ipynb</a>
+        </th>
+        <th>An example showing different bin options in matpltolib's histogram plot.</th>
+    <tr>
+    <tr>
         <th>19</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1689267873695272960?s=20">Twitter</a>
