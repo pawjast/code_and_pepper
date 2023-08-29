@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>21</th>
+        <th>
+            <a href="https://twitter.com/pawjast/status/1696463882871554389?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matpltolib_using_set_method.ipynb">.ipynb</a>
+        </th>
+        <th>An example of how to use <code>ax.set</code> method in matplotlib.</th>
+    <tr>
+    <tr>
         <th>20</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1694341521829507110?s=20">Twitter</a>
