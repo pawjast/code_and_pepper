@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>22</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1704081673241964623?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_r_style_bar_chart.ipynb">.ipynb</a>
+        </th>
+        <th>How to create an <code>r-style</code> bar plot in matplotlib</th>
+    <tr>
+    <tr>
         <th>21</th>
         <th>
             <a href="https://twitter.com/pawjast/status/1696463882871554389?s=20">Twitter</a>
