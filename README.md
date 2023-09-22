@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>23</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1705205144537751705?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_plot_shapely_objects.ipynb">.ipynb</a>
+        </th>
+        <th>How to use display <code>shapely</code> objects using matplotlib</th>
+    <tr>
+    <tr>
         <th>22</th>
         <th>
             <a href="https://x.com/pawjast/status/1704081673241964623?s=20">Twitter</a>
