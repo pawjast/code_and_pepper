@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>24</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1707763527337886002?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_3D_plot_view_rotation.ipynb">.ipynb</a>
+        </th>
+        <th>Update view of a matplotlib plot created on a 3D Axes</th>
+    <tr>
+    <tr>
         <th>23</th>
         <th>
             <a href="https://x.com/pawjast/status/1705205144537751705?s=20">Twitter</a>
