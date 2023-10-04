@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>25</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1709534828608020525?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_gridline_at_the_bottom.ipynb">.ipynb</a>
+        </th>
+        <th>Move gridline to the bottom of the plot.</th>
+    <tr>
+    <tr>
         <th>24</th>
         <th>
             <a href="https://x.com/pawjast/status/1707763527337886002?s=20">Twitter</a>
