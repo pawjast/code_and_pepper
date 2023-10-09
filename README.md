@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>26</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1711376625122607326?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_inset.ipynb">.ipynb</a>
+        </th>
+        <th>How to produce an inset plot in matplotlib?</th>
+    <tr>
+    <tr>
         <th>25</th>
         <th>
             <a href="https://x.com/pawjast/status/1709534828608020525?s=20">Twitter</a>
