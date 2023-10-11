@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>27</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1712066650990674056?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_text_alignment.ipynb">.ipynb</a>
+        </th>
+        <th>Text alignment in matplotlib</th>
+    <tr>
+    <tr>
         <th>26</th>
         <th>
             <a href="https://x.com/pawjast/status/1711376625122607326?s=20">Twitter</a>
