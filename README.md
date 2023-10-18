@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>28</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1714608670439334250?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_axis_elements_visibility.ipynb">.ipynb</a>
+        </th>
+        <th>Show difference betwen <code>ax.set_axis_off()</code> and <code>ax.set_frame_on().</code></th>
+    <tr>
+    <tr>
         <th>27</th>
         <th>
             <a href="https://x.com/pawjast/status/1712066650990674056?s=20">Twitter</a>
