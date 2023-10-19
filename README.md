@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>29</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1714978249413947806?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_hatching_with_stacked_area_plot.ipynb">.ipynb</a>
+        </th>
+        <th>Create stacked area plot with hatching fill</th>
+    <tr>
+    <tr>
         <th>28</th>
         <th>
             <a href="https://x.com/pawjast/status/1714608670439334250?s=20">Twitter</a>
