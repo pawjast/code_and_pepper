@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>30</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1717901573152547260?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_rcparams.ipynb">.ipynb</a>
+        </th>
+        <th>3 ways of how to update matplotlib plot appearance by modifying rcParams</th>
+    <tr>
+    <tr>
         <th>29</th>
         <th>
             <a href="https://x.com/pawjast/status/1714978249413947806?s=20">Twitter</a>
