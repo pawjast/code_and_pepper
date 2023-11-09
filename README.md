@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>31</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1722622903542513916?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_setting_ticks_and_labels.ipynb">.ipynb</a>
+        </th>
+        <th>Setting ticks and tick labels in matplotlib</th>
+    <tr>
+    <tr>
         <th>30</th>
         <th>
             <a href="https://x.com/pawjast/status/1717901573152547260?s=20">Twitter</a>
