@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>32</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1724040473956790273?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_merging_legends.ipynb">.ipynb</a>
+        </th>
+        <th>Merging legends in matplotlib</th>
+    <tr>
+    <tr>
         <th>31</th>
         <th>
             <a href="https://x.com/pawjast/status/1722622903542513916?s=20">Twitter</a>
