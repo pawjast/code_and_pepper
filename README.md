@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>34</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1729831723838378092?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_twinx_vs_secondary_axis.ipynb">.ipynb</a>
+        </th>
+        <th>Example of using <code>ax.secondary_xaxis()</code></th>
+    <tr>
+    <tr>
         <th>33</th>
         <th>
             <a href="https://x.com/pawjast/status/1724757290283102336?s=20">Twitter</a>
