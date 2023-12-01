@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>35</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1730596527561670721?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_getp_setp.ipynb">.ipynb</a>
+        </th>
+        <th>Example of using <code>plt.getp()</code> and <code>plt.setp</code></th>
+    <tr>
+    <tr>
         <th>34</th>
         <th>
             <a href="https://x.com/pawjast/status/1729831723838378092?s=20">Twitter</a>
