@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>36</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1732737277636252076?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_spines_visibility.ipynb">.ipynb</a>
+        </th>
+        <th>Presenting 2.5 ways to remove <code>Axes</code> spines</th>
+    <tr>
+    <tr>
         <th>35</th>
         <th>
             <a href="https://x.com/pawjast/status/1730596527561670721?s=20">Twitter</a>
