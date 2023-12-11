@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>37</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1734245532300628279?s=20">Twitter</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/animation.ipynb">.ipynb</a>
+        </th>
+        <th>My first matplotlib animation (poor code but it works)</th>
+    <tr>
+    <tr>
         <th>36</th>
         <th>
             <a href="https://x.com/pawjast/status/1732737277636252076?s=20">Twitter</a>
