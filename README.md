@@ -12,9 +12,19 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>38</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1735301135106256937?s=20">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_connection_patch.ipynb">.ipynb</a>
+        </th>
+        <th>Example of how to use <code>CollectionPatch</code> object in matplotlib.</th>
+    <tr>
+    <tr>
         <th>37</th>
         <th>
-            <a href="https://x.com/pawjast/status/1734245532300628279?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1734245532300628279?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/animation.ipynb">.ipynb</a>
@@ -24,7 +34,7 @@ The table below describes the content of this repo.
     <tr>
         <th>36</th>
         <th>
-            <a href="https://x.com/pawjast/status/1732737277636252076?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1732737277636252076?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_spines_visibility.ipynb">.ipynb</a>
@@ -34,7 +44,7 @@ The table below describes the content of this repo.
     <tr>
         <th>35</th>
         <th>
-            <a href="https://x.com/pawjast/status/1730596527561670721?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1730596527561670721?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_getp_setp.ipynb">.ipynb</a>
@@ -44,7 +54,7 @@ The table below describes the content of this repo.
     <tr>
         <th>34</th>
         <th>
-            <a href="https://x.com/pawjast/status/1729831723838378092?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1729831723838378092?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_twinx_vs_secondary_axis.ipynb">.ipynb</a>
@@ -54,7 +64,7 @@ The table below describes the content of this repo.
     <tr>
         <th>33</th>
         <th>
-            <a href="https://x.com/pawjast/status/1724757290283102336?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1724757290283102336?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_tick_params_for_colour_change.ipynb">.ipynb</a>
@@ -64,7 +74,7 @@ The table below describes the content of this repo.
     <tr>
         <th>32</th>
         <th>
-            <a href="https://x.com/pawjast/status/1724040473956790273?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1724040473956790273?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_merging_legends.ipynb">.ipynb</a>
@@ -74,7 +84,7 @@ The table below describes the content of this repo.
     <tr>
         <th>31</th>
         <th>
-            <a href="https://x.com/pawjast/status/1722622903542513916?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1722622903542513916?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_setting_ticks_and_labels.ipynb">.ipynb</a>
@@ -84,7 +94,7 @@ The table below describes the content of this repo.
     <tr>
         <th>30</th>
         <th>
-            <a href="https://x.com/pawjast/status/1717901573152547260?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1717901573152547260?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_rcparams.ipynb">.ipynb</a>
@@ -94,7 +104,7 @@ The table below describes the content of this repo.
     <tr>
         <th>29</th>
         <th>
-            <a href="https://x.com/pawjast/status/1714978249413947806?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1714978249413947806?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_hatching_with_stacked_area_plot.ipynb">.ipynb</a>
@@ -104,7 +114,7 @@ The table below describes the content of this repo.
     <tr>
         <th>28</th>
         <th>
-            <a href="https://x.com/pawjast/status/1714608670439334250?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1714608670439334250?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_axis_elements_visibility.ipynb">.ipynb</a>
@@ -114,7 +124,7 @@ The table below describes the content of this repo.
     <tr>
         <th>27</th>
         <th>
-            <a href="https://x.com/pawjast/status/1712066650990674056?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1712066650990674056?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_text_alignment.ipynb">.ipynb</a>
@@ -124,7 +134,7 @@ The table below describes the content of this repo.
     <tr>
         <th>26</th>
         <th>
-            <a href="https://x.com/pawjast/status/1711376625122607326?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1711376625122607326?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_inset.ipynb">.ipynb</a>
@@ -134,7 +144,7 @@ The table below describes the content of this repo.
     <tr>
         <th>25</th>
         <th>
-            <a href="https://x.com/pawjast/status/1709534828608020525?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1709534828608020525?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_gridline_at_the_bottom.ipynb">.ipynb</a>
@@ -144,7 +154,7 @@ The table below describes the content of this repo.
     <tr>
         <th>24</th>
         <th>
-            <a href="https://x.com/pawjast/status/1707763527337886002?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1707763527337886002?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_3D_plot_view_rotation.ipynb">.ipynb</a>
@@ -154,7 +164,7 @@ The table below describes the content of this repo.
     <tr>
         <th>23</th>
         <th>
-            <a href="https://x.com/pawjast/status/1705205144537751705?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1705205144537751705?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_plot_shapely_objects.ipynb">.ipynb</a>
@@ -164,7 +174,7 @@ The table below describes the content of this repo.
     <tr>
         <th>22</th>
         <th>
-            <a href="https://x.com/pawjast/status/1704081673241964623?s=20">Twitter</a>
+            <a href="https://x.com/pawjast/status/1704081673241964623?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_r_style_bar_chart.ipynb">.ipynb</a>
@@ -174,7 +184,7 @@ The table below describes the content of this repo.
     <tr>
         <th>21</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1696463882871554389?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1696463882871554389?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matpltolib_using_set_method.ipynb">.ipynb</a>
@@ -184,7 +194,7 @@ The table below describes the content of this repo.
     <tr>
         <th>20</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1694341521829507110?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1694341521829507110?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matpltolib_histogram_bin_options.ipynb">.ipynb</a>
@@ -194,7 +204,7 @@ The table below describes the content of this repo.
     <tr>
         <th>19</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1689267873695272960?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1689267873695272960?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_simpson_paradox.ipynb">.ipynb</a>
@@ -203,7 +213,7 @@ The table below describes the content of this repo.
     <tr>
         <th>18</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1687489094887067648?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1687489094887067648?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_3d_plots.ipynb">.ipynb</a>
@@ -213,7 +223,7 @@ The table below describes the content of this repo.
     <tr>
         <th>17</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1680700608758665217?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1680700608758665217?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_step_plots.ipynb">.ipynb</a>
@@ -224,7 +234,7 @@ The table below describes the content of this repo.
     <tr>
         <th>16</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1671849311468912641?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1671849311468912641?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_metadata_for_images.ipynb">.ipynb</a>
@@ -234,7 +244,7 @@ The table below describes the content of this repo.
     <tr>
         <th>15</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1669283416011939841?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1669283416011939841?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_minor_ticks.ipynb">.ipynb</a>
@@ -244,7 +254,7 @@ The table below describes the content of this repo.
     <tr>
         <th>14</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1666375039816531969?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1666375039816531969?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_zorder.ipynb">.ipynb</a>
@@ -254,7 +264,7 @@ The table below describes the content of this repo.
     <tr>
         <th>13</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1664279977129566220?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1664279977129566220?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_pareto_storytelling.ipynb">.ipynb</a>
@@ -264,7 +274,7 @@ The table below describes the content of this repo.
     <tr>
         <th>12</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1661754506391207936?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1661754506391207936?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_histogram.ipynb">.ipynb</a>
@@ -274,7 +284,7 @@ The table below describes the content of this repo.
     <tr>
         <th>11</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1658840663901839360?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1658840663901839360?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_fill_between.ipynb">.ipynb</a>
@@ -284,7 +294,7 @@ The table below describes the content of this repo.
     <tr>
         <th>10</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1653826193966112781?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1653826193966112781?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_line_plot_with_tweaks.ipynb">.ipynb</a>
@@ -294,7 +304,7 @@ The table below describes the content of this repo.
     <tr>
         <th>9</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1650994008863174656?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1650994008863174656?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_line_plot_with_parsed_dates.ipynb">.ipynb</a>
@@ -304,7 +314,7 @@ The table below describes the content of this repo.
     <tr>
         <th>8</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1649431410883608583?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1649431410883608583?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_marker_every.ipynb">.ipynb</a>
@@ -314,7 +324,7 @@ The table below describes the content of this repo.
     <tr>
         <th>7</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1648449722347302914?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1648449722347302914?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_GNOME_colours_palette.ipynb">.ipynb</a>
@@ -324,7 +334,7 @@ The table below describes the content of this repo.
     <tr>
         <th>6</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1647900615635238912?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1647900615635238912?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_hatching.ipynb">.ipynb</a>
@@ -334,7 +344,7 @@ The table below describes the content of this repo.
     <tr>
         <th>5</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1646817570685698049?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1646817570685698049?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_bar_labels.ipynb">.ipynb</a>
@@ -344,7 +354,7 @@ The table below describes the content of this repo.
     <tr>
         <th>4</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1646563349541289995?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1646563349541289995?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_basic_plot_tweaks_bar_chart.ipynb">.ipynb</a>
@@ -354,7 +364,7 @@ The table below describes the content of this repo.
     <tr>
         <th>3</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1646095784704704513?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1646095784704704513?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_interrupted_line_chart.ipynb">.ipynb</a>
@@ -364,7 +374,7 @@ The table below describes the content of this repo.
     <tr>
         <th>2</th>
         <th>
-            <a href="https://twitter.com/pawjast/status/1645697671678820352?s=20">Twitter</a>
+            <a href="https://twitter.com/pawjast/status/1645697671678820352?s=20">Twitter/X</a>
         </th>
         <th>
             <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_axis_ticks_and_ticklabels_tweak.ipynb">.ipynb</a>
