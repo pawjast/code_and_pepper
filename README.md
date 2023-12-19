@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>40</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1737125624454467773?s=20">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_contour_2d.ipynb">.ipynb</a>
+        </th>
+        <th>Example of how to plot filled contour in matplotlib.</th>
+    <tr>
+    <tr>
         <th>38</th>
         <th>
             <a href="https://x.com/pawjast/status/1735301135106256937?s=20">Twitter/X</a>
