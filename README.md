@@ -14,6 +14,16 @@ The table below describes the content of this repo.
     <tr>
         <th>40</th>
         <th>
+            <a href="https://x.com/pawjast/status/1745122214070853713?s=20">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_axlines.ipynb">.ipynb</a>
+        </th>
+        <th>Plotting vertical, horizontal and angular lines spanning across Axes.</th>
+    <tr>
+    <tr>
+        <th>39</th>
+        <th>
             <a href="https://x.com/pawjast/status/1737125624454467773?s=20">Twitter/X</a>
         </th>
         <th>
