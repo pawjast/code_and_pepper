@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>41</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1747624749021241400?s=20">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_axes_aspect_equal.ipynb">.ipynb</a>
+        </th>
+        <th>Learn how to set aspect ratio for the data when plotting it.</th>
+    <tr>
+    <tr>
         <th>40</th>
         <th>
             <a href="https://x.com/pawjast/status/1745122214070853713?s=20">Twitter/X</a>
