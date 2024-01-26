@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>42</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1750850540509032891?s=20">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_bar_chart_with_dates.ipynb">.ipynb</a>
+        </th>
+        <th>Properly plot bar chars when x-values are in date format</th>
+    <tr>
+    <tr>
         <th>41</th>
         <th>
             <a href="https://x.com/pawjast/status/1747624749021241400?s=20">Twitter/X</a>
