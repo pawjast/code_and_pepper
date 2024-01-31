@@ -5,12 +5,22 @@
 The table below describes the content of this repo.
 
 <table>
-    <tr>
+    <tr>v
         <th>Nr</th>
         <th>Link</th>
         <th>Code</th>
         <th>Descriprion</th>
     </tr>
+    <tr>
+        <th>43</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1752702773307793691?s=20">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/plot_spacex_recovery_plot.ipynb">.ipynb</a>
+        </th>
+        <th>Plot of Tweet from @stat_feed: spacex landings</th>
+    <tr>
     <tr>
         <th>42</th>
         <th>
