@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>45</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1777362085183172736">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_source_and_fig_annotation.ipynb">.ipynb</a>
+        </th>
+        <th>Add figure description or source of data annotation to a plot using <code>ax.text()</code>.</th>
+    <tr>
+    <tr>
         <th>44</th>
         <th>
             <a href="https://x.com/pawjast/status/1759583855248285877?s=20">Twitter/X</a>
