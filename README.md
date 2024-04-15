@@ -12,6 +12,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>46</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1779891839450911057">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/python_else_usecases.ipynb">.ipynb</a>
+        </th>
+        <th>Examples showing 4 use cases for <code>else</code> in Python.</th>
+    <tr>
+    <tr>
         <th>45</th>
         <th>
             <a href="https://x.com/pawjast/status/1777362085183172736">Twitter/X</a>
