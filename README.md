@@ -7,7 +7,7 @@ I also share Python/IDE/Software Dev tips on X. The full collection lives [here]
 The table below describes the content of this repo.
 
 <table>
-    <tr>v
+    <tr>
         <th>Nr</th>
         <th>Link</th>
         <th>Code</th>
