@@ -1,5 +1,7 @@
 # Tips
 Content:
+* [Matplotlib](#matplotlib)
+* [Other tips](#other-tips)
 
 ## Matplotlib
 
@@ -69,7 +71,6 @@ Content:
 
 ## 
 
-![alt text](img/matplotlib/8.png)
 ![alt text](img/matplotlib/8.1.png)
 
 ## 
@@ -99,6 +100,8 @@ Content:
 ## 
 
 ![alt text](img/matplotlib/1.png)
+
+[[Back to the top]](#tips)
 
 ## Other tips
 
@@ -164,3 +167,5 @@ Content:
 ## 
 
 ![alt text](img/other/1_WK_dict_to_df.png)
+
+[[Back to the top]](#tips)
