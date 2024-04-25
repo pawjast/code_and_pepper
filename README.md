@@ -1,6 +1,8 @@
 # code_and_pepper
 🐍 code I post on the web
 
+I also share Python/IDE/Software Dev tips on X. The full collection lives [here](tips.md)
+
 # Summary
 The table below describes the content of this repo.
 
