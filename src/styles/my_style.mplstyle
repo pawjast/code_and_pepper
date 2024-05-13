@@ -1,0 +1,28 @@
+figure.facecolor : "#ffffff"  # white
+
+font.size : 14
+
+# Axes settings
+axes.facecolor : "#e6f8fd"  # bright blue
+axes.grid : True
+axes.titlelocation : "left"
+axes.titlesize : 25
+axes.titleweight : "bold"
+axes.titlepad : 12
+axes.spines.left : False
+axes.spines.right : False
+axes.spines.top : False
+axes.spines.bottom : False
+# Update colours in the cycler
+axes.prop_cycle : cycler(color=["#e01b24", "#ff7800", "#26a269", "#c061cb", "#1c71d8"])
+
+# Hide ticks on both axis
+xtick.bottom : False
+ytick.left : False
+
+# Grid settings
+grid.color : "#ffffff"  # white
+grid.linewidth : 2
+
+# Legend settings
+legend.frameon : False
