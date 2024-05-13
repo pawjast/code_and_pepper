@@ -3,7 +3,12 @@
 
 I also share Python/IDE/Software Dev tips on X. The full collection lives [here](tips.md)
 
-# Summary
+## Publications
+
+### 2024 PyCon poster code
+* [Notebook](https://github.com/pawjast/code_and_pepper/blob/main/src/pycon_poster_updating_plot_look_with_rcParams.ipynb)
+
+## Summary
 The table below describes the content of this repo.
 
 <table>
