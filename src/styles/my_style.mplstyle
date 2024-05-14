@@ -1,9 +1,9 @@
 figure.facecolor : "#ffffff"  # white
 
-font.size : 14
+font.size : 16
 
 # Axes settings
-axes.facecolor : "#e6f8fd"  # bright blue
+axes.facecolor : "#effeec"  # bright green
 axes.grid : True
 axes.titlelocation : "left"
 axes.titlesize : 25
@@ -14,7 +14,7 @@ axes.spines.right : False
 axes.spines.top : False
 axes.spines.bottom : False
 # Update colours in the cycler
-axes.prop_cycle : cycler(color=["#e01b24", "#ff7800", "#26a269", "#c061cb", "#1c71d8"])
+axes.prop_cycle : cycler(color=["#e01b24", "#3584e4", "#26a269", "#c061cb", "#986a44"])
 
 # Hide ticks on both axis
 xtick.bottom : False
