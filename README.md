@@ -6,7 +6,7 @@ I also share Python/IDE/Software Dev tips on X. The full collection lives [here]
 ## Publications
 
 ### 2024 PyCon poster code
-* [Notebook](https://github.com/pawjast/code_and_pepper/blob/main/src/pycon_poster_updating_plot_look_with_rcParams.ipynb)
+* [Notebook](https://github.com/pawjast/code_and_pepper/blob/main/src/pycon_poster_updating_plot_look_with_rcParams.ipynb) / [free poster download](https://pawjast.gumroad.com/l/pycon2024-poster)
 
 ## Summary
 The table below describes the content of this repo.
