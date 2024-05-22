@@ -19,6 +19,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>47</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1793255962779824208">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_simple_line_plot_with_black_and_white_dots.ipynb">.ipynb</a>
+        </th>
+        <th>Minimalistic line plot with dots that have thick border to create a mild impression of discontinuity.</th>
+    <tr>
+    <tr>
         <th>46</th>
         <th>
             <a href="https://x.com/pawjast/status/1779891839450911057">Twitter/X</a>
