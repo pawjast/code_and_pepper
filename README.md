@@ -19,6 +19,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>49</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1815413547943297113">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_chess_board.ipynb">.ipynb</a>
+        </th>
+        <th>Plot a chessboard in Matplotlib (20th of July is International Chess Day.</th>
+    <tr>
+    <tr>
         <th>48</th>
         <th>
             <a href="https://x.com/pawjast/status/1813555929784442978">Twitter/X</a>
