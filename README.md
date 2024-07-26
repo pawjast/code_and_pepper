@@ -19,6 +19,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>50</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1816796446684807349">Twitter/X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_oplymics_logo.ipynb">.ipynb</a>
+        </th>
+        <th>Use matplotlib to plot Olympics logo.</th>
+    <tr>
+    <tr>
         <th>49</th>
         <th>
             <a href="https://x.com/pawjast/status/1815413547943297113">Twitter/X</a>
