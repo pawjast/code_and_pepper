@@ -3,6 +3,9 @@
 
 I also share Python/IDE/Software Dev tips on X. The full collection lives [here](tips.md)
 
+## Python Spaces on `X`
+* [List of all recordings](abc)
+
 ## Publications
 
 ### 2024 PyCon poster code
