@@ -4,7 +4,7 @@
 I also share Python/IDE/Software Dev tips on X. The full collection lives [here](tips.md)
 
 ## Python Spaces on `X`
-* [List of all recordings](abc)
+* [List of all recordings](https://github.com/pawjast/code_and_pepper/blob/main/pyspaces.md)
 
 ## Publications
 
