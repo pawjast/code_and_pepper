@@ -1,4 +1,4 @@
-# Python Spaces
+# Python Spaces 🐍🚀
 
 * Every two weeks I host `Python Space` on [x](https://x.com/home).
 
@@ -11,6 +11,11 @@
 > This repo is a collection of all the Spaces we hosted to date
 
 # Recordings
+
+## Space 11: Data Viz in Python: which plotting library to learn?
+
+* Hosted on: 8th Aug 2024
+* [playback link](https://x.com/i/spaces/1eaKbaMXgPjxX)
 
 ## Space 10: Let's talk about SQL
 
