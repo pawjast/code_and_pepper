@@ -108,6 +108,10 @@ Content:
 
 ## Other tips
 
+![alt text](<img/other/16 worth knowing.png>)
+
+##
+
 ![alt text](<img/other/15 worth knowing.png>)
 
 ##
