@@ -12,6 +12,16 @@
 
 # Recordings
 
+## Space 13:  Turn your code into terminal app with argparse/logging?
+
+* Hosted on: 26th Sep 2024
+* [playback link](https://x.com/i/spaces/1djGXrXgngkxZ)
+
+## Space 12: Call for proposals for PyCon - how to make a good one?
+
+* Hosted on: 5th Sep 2024
+* [playback link](https://x.com/i/spaces/1LyxBgYNEPbKN)
+
 ## Space 11: Data Viz in Python: which plotting library to learn?
 
 * Hosted on: 8th Aug 2024
