@@ -12,7 +12,12 @@
 
 # Recordings
 
-## Space 13:  Turn your code into terminal app with argparse/logging?
+## Space 14: Tools for better code (formatters, linters, etc.)
+
+* Hosted on: 10th Oct 2024
+* [playback link](https://x.com/i/spaces/1OdKrXNQoWzJX)
+
+## Space 13: Turn your code into terminal app with argparse/logging?
 
 * Hosted on: 26th Sep 2024
 * [playback link](https://x.com/i/spaces/1djGXrXgngkxZ)
