@@ -22,6 +22,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>51</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1846139310203912377">X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/python_zipping.ipynb">.ipynb</a>
+        </th>
+        <th>Learn how to use <code>zip</code> and <code>zip_longest</code> in Python.</th>
+    <tr>
+    <tr>
         <th>50</th>
         <th>
             <a href="https://x.com/pawjast/status/1816796446684807349">Twitter/X</a>
