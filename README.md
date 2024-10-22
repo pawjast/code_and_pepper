@@ -24,6 +24,16 @@ The table below describes the content of this repo.
     <tr>
         <th>51</th>
         <th>
+            <a href="https://x.com/pawjast/status/1848676479732797576">X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_piechart.ipynb">.ipynb</a>
+        </th>
+        <th>Make a pie chart with matplotlib using the *xkcd* style.</th>
+    <tr>
+    <tr>
+        <th>51</th>
+        <th>
             <a href="https://x.com/pawjast/status/1846139310203912377">X</a>
         </th>
         <th>
