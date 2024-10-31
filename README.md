@@ -22,6 +22,16 @@ The table below describes the content of this repo.
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>53</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1851993557906698599">X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_watermark_img.ipynb">.ipynb</a>
+        </th>
+        <th>Use image as a watermark to in your matplotlib plot</th>
+    <tr>
+    <tr>
         <th>52</th>
         <th>
             <a href="https://x.com/pawjast/status/1848676479732797576">X</a>
