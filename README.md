@@ -12,7 +12,7 @@ I also share Python/IDE/Software Dev tips on X. The full collection lives [here]
 * [Notebook](https://github.com/pawjast/code_and_pepper/blob/main/src/pycon_poster_updating_plot_look_with_rcParams.ipynb) / [free poster download](https://pawjast.gumroad.com/l/pycon2024-poster)
 
 ## Summary
-The table below describes the content of this repo.
+The table below describes the content of this repo.v
 
 <table>
     <tr>
@@ -21,6 +21,16 @@ The table below describes the content of this repo.
         <th>Code</th>
         <th>Descriprion</th>
     </tr>
+    <tr>
+        <th>54</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1871299750584307953">X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_hornshape_3d_plot.ipynb">.ipynb</a>
+        </th>
+        <th>Plot a horn shape in 3D using matplotlib and numpy</th>
+    <tr>
     <tr>
         <th>53</th>
         <th>
