@@ -22,6 +22,16 @@ The table below describes the content of this repo.v
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>55</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1875151160379900354">X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/matplotlib_clipping_setting.ipynb">.ipynb</a>
+        </th>
+        <th>Effect of using <code>clip_on</code> parameter on matplotlib artists.</th>
+    <tr>
+    <tr>
         <th>54</th>
         <th>
             <a href="https://x.com/pawjast/status/1871299750584307953">X</a>
