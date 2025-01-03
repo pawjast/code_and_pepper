@@ -5,6 +5,10 @@ Content:
 
 ## Matplotlib
 
+![alt text](img/matplotlib/24.png)
+
+##
+
 ![alt text](img/matplotlib/23.png)
 
 ##
