@@ -1,4 +1,4 @@
-# code_and_pepper
+# Code & Pepper
 🐍 code I post on the web
 
 I also share Python/IDE/Software Dev tips on X. The full collection lives [here](tips.md)
