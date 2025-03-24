@@ -112,6 +112,10 @@ Content:
 
 ## Other tips
 
+![alt text](<img/other/23 worth knowing.png>)
+
+##
+
 ![alt text](<img/other/22 worth knowing.png>)
 
 ##

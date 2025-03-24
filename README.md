@@ -8,8 +8,11 @@ I also share Python/IDE/Software Dev tips on X. The full collection lives [here]
 
 ## Publications
 
+### 2025 PyData Kampala (22nd of Feb)
+* [video](https://youtu.be/BwPFwyf4N4A?si=7GW6Q5E4cMRS5yVU) / [slides](https://pawjast.gumroad.com/l/pydata_kampala_feb_2025)
+
 ### 2024 PyCon poster code
-* [Notebook](https://github.com/pawjast/code_and_pepper/blob/main/src/pycon_poster_updating_plot_look_with_rcParams.ipynb) / [free poster download](https://pawjast.gumroad.com/l/pycon2024-poster)
+* [Notebook](https://github.com/pawjast/code_and_pepper/blob/main/src/pycon_poster_updating_plot_look_with_rcParams.ipynb) / [poster download](https://pawjast.gumroad.com/l/pycon2024-poster)
 
 ## Summary
 The table below describes the content of this repo.v
