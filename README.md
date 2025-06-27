@@ -8,6 +8,9 @@ I also share Python/IDE/Software Dev tips on X. The full collection lives [here]
 
 ## Publications
 
+### 2025 Pacific Dataviz Challenge Webinar (10th of June)
+* [video](https://youtu.be/fQF4iud99Wc?si=mKbymtAcojBnNnYy) / [slides](https://pawjast.gumroad.com/l/pacific-dataviz-webinar-june-2025)
+
 ### 2025 PyData Kampala (22nd of Feb)
 * [video](https://youtu.be/BwPFwyf4N4A?si=7GW6Q5E4cMRS5yVU) / [slides](https://pawjast.gumroad.com/l/pydata_kampala_feb_2025)
 
