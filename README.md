@@ -25,6 +25,16 @@ The table below describes the content of this repo.v
         <th>Descriprion</th>
     </tr>
     <tr>
+        <th>56</th>
+        <th>
+            <a href="https://x.com/pawjast/status/1938575411127980370">X</a>
+        </th>
+        <th>
+            <a href="https://github.com/pawjast/code_and_pepper/blob/main/src/wordcloud.ipynb">.ipynb</a>
+        </th>
+        <th>Making a word cloud with Python</th>
+    <tr>
+    <tr>
         <th>55</th>
         <th>
             <a href="https://x.com/pawjast/status/1875151160379900354">X</a>
